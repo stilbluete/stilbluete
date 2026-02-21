@@ -19,6 +19,8 @@ Um, and now I'm trying to understand GitHub and Markdown.
 - **Watched and followed the CS50 lecture series independently**
 - *Responsive Web Design course on freeCodeCamp* - almost completed
 - *JavaScript course on freeCodeCamp* - started
+- *Python course by Arkadiusz Włodarczyk* - started
+- *Learning Python basics independently* - started
 
 <!--
 **stilbluete/stilbluete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
