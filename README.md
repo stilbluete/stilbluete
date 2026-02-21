@@ -1,4 +1,24 @@
-## Hi there 👋
+# About me 👋
+
+There's not much to say about me yet.  
+I'm learning HTML, CSS, and JavaScript - and then later Python and SQL - to be able to build websites.  
+Um, and now I'm trying to understand GitHub and Markdown.
+
+## So, on my list:
+- **HTML** - usable
+- **CSS** - usable
+- *JavaScript* - started
+- *Python* - started
+- SQL - planned
+- Markdown - planned
+
+## What I've done:
+- **Built early websites using HTML4 and frames, learning from selfHTML (informal, independent)**
+- **Completed several Khan Academy courses on HTML, CSS, JavaScript, and MySQL**
+- *HTML & CSS course by Brad Traversy* - not completed
+- **Watched and followed the CS50 lecture series independently**
+- *Responsive Web Design course on freeCodeCamp* - almost completed
+- *JavaScript course on freeCodeCamp* - started
 
 <!--
 **stilbluete/stilbluete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
