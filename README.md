@@ -17,7 +17,7 @@ Um, and now I'm trying to understand GitHub and Markdown.
 - **Completed several Khan Academy courses on HTML, CSS, JavaScript, and MySQL**
 - *HTML & CSS course by Brad Traversy* - not completed
 - **Watched and followed the CS50 lecture series independently**
-- *Responsive Web Design course on freeCodeCamp* - almost completed
+- **Completed Responsive Web Design course on freeCodeCamp**
 - *JavaScript course on freeCodeCamp* - started
 - *Python course by Arkadiusz Włodarczyk* - started
 - *Learning Python basics independently* - started
